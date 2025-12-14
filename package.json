@@ -1,0 +1,12 @@
+﻿{
+  "name": "smart-nyuki",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "node-red": "^3.1.0",
+    "node-red-dashboard": "^3.6.5",
+    "express-session": "^1.18.0",
+    "body-parser": "^1.20.2"
+  }
+}

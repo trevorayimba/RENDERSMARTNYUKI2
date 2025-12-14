@@ -20,7 +20,7 @@ app.get('/', (req, res) => {
       h1{font-size:3.5rem;margin-bottom:40px}
     </style>
     <div class="box">
-      <h1>🐝 SMART NYUKI</h1>
+      <h1>SMART NYUKI</h1>
       <form method="post">
         <input name="name" placeholder="Your Name" required><br>
         <input name="pass" type="password" placeholder="Password" required><br>
